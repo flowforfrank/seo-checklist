@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://allma.si/seo-checklist.png" alt="SEO Checklist" />
+    <img src="https://raw.githubusercontent.com/flowforfrank/seo-checklist/master/seo-checklist.png" alt="SEO Checklist" />
 </h1>
 
 <h4 align="center">🕵️ The SEO Checklist is a comprehensive list of SEO requirements you need to address to rank higher and elevate your SEO game to the next level. 🆙</h4>
