@@ -244,7 +244,8 @@ X-Robots-Tag: noindex
 >    - Use `rel="preload"` to treat resource with high priorty
 >    - Cache & compress
 >  
-> 📖 [Medium - How to Improve Page Speed by Optimizing Content](https://medium.com/@ferencalmasi/how-to-improve-page-speed-by-optimizing-content-566f0c777d33)  
+> 📖 [Medium - 10 Critical Performance Optimization Steps You Should Take](https://medium.com/better-programming/10-critical-performance-optimization-steps-you-should-take-b560a3fcf658)  
+> 📖 [Medium - How to Improve Page Speed by Optimizing Content](https://medium.com/better-programming/how-to-improve-page-speed-by-optimizing-content-669e17a369cb)  
 > 📖 [Web fundamentals - Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)  
 > 📖 [Web fundamentals - Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)  
 > 📖 [Varvy.com - Leverage browser caching](https://varvy.com/pagespeed/leverage-browser-caching.html)  
