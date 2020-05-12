@@ -115,19 +115,19 @@
     - ✔️ [Seobility](https://www.seobility.net/en/seocheck/) - *Factors includes **meta information, page quality and structure, links and server configuration***
     - ✔️ [SEO Site Checkup](https://seositecheckup.com/) - *Apart from general SEO, also checks for: **speed, server & security and mobile usability***
 - #### Chrome Extensions
-    - 🧩 [Serpstat Website SEO Checker](https://chrome.google.com/webstore/detail/serpstat-website-seo-chec/fcgbopaomlpldhbinhgebmkcnkfconmn)
-    - 🧩 [SEO Checker Tool](https://chrome.google.com/webstore/detail/seo-checker-tool-get-free/ljkhgacfcnhpfafpcdpaadgklajibdak)
-    - 🧩 [Website SEO Checker: Free Audit & Analysis](https://chrome.google.com/webstore/detail/website-seo-checker-free/nljcdkjpjnhlilgepggmmagnmebhadnk)
-    - 🧩 [Keywords Everywhere - Chrome & Firefox](https://keywordseverywhere.com/)
+    - 💻 [Serpstat Website SEO Checker](https://chrome.google.com/webstore/detail/serpstat-website-seo-chec/fcgbopaomlpldhbinhgebmkcnkfconmn)
+    - 💻 [SEO Checker Tool](https://chrome.google.com/webstore/detail/seo-checker-tool-get-free/ljkhgacfcnhpfafpcdpaadgklajibdak)
+    - 💻 [Website SEO Checker: Free Audit & Analysis](https://chrome.google.com/webstore/detail/website-seo-checker-free/nljcdkjpjnhlilgepggmmagnmebhadnk)
+    - 💻 [Keywords Everywhere - Chrome & Firefox](https://keywordseverywhere.com/)
 - #### Other Tools
-    - 🧰 [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - *Validate open graph tags*
-    - 🧰 [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/)
-    - 🧰 [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
-    - 🧰 [Structured Data Linter](http://linter.structured-data.org/)
-    - 🧰 [W3C Markup Validation Service](https://validator.w3.org/)
-    - 🧰 [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
-    - 🧰 [Pinterest Rich Pins Validator](https://developers.pinterest.com/tools/url-debugger/)
-    - 🧰 [Twitter Card Validator](https://cards-dev.twitter.com/validator)
+    - 🛠️ [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - *Validate open graph tags*
+    - 🛠️ [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/)
+    - 🛠️ [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
+    - 🛠️ [Structured Data Linter](http://linter.structured-data.org/)
+    - 🛠️ [W3C Markup Validation Service](https://validator.w3.org/)
+    - 🛠️ [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
+    - 🛠️ [Pinterest Rich Pins Validator](https://developers.pinterest.com/tools/url-debugger/)
+    - 🛠️ [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
 ## ⚙️ Technical SEO
 ℹ️ *The purpose of Technical SEO is to help search engines find and crawl your website without any problems.*
@@ -402,7 +402,7 @@ disallow: /downloads/
 <!-- 🔴 Don't -->
 <a href="https://example.com/index.php?page=articles&order=desc">Latest articles</a>
 
-<!-- 🟢 Do -->
+<!-- ✅ Do -->
 <a href="http://example.com/articles/latest">Latest articles</a>
 ```
 ----------
@@ -479,7 +479,7 @@ disallow: /downloads/
 <!-- 🔴 Don't -->
 <p>To see more articles like this, <a href="articles.html">click here</a>.</p>
 
-<!-- 🟢 Do -->
+<!-- ✅ Do -->
 <p>Are you interesed in more? Check out these <a href="articles.html">similar articles</a>.</p>
 ```
 ----------
