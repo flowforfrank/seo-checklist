@@ -244,8 +244,8 @@ X-Robots-Tag: noindex
 >    - Use `rel="preload"` to treat resource with high priorty
 >    - Cache & compress
 >  
-> 📖 [Medium - 10 Critical Performance Optimization Steps You Should Take](https://medium.com/better-programming/10-critical-performance-optimization-steps-you-should-take-b560a3fcf658)  
-> 📖 [Medium - How to Improve Page Speed by Optimizing Content](https://medium.com/better-programming/how-to-improve-page-speed-by-optimizing-content-669e17a369cb)  
+> 📖 [Webtips.dev - 10 Critical Performance Optimization Steps You Should Take](https://www.webtips.dev/10-critical-performance-optimization-steps-you-should-take)  
+> 📖 [Webtips.dev - How to Improve Page Speed by Optimizing Content](https://www.webtips.dev/how-to-improve-page-speed-by-optimizing-content)  
 > 📖 [Web fundamentals - Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)  
 > 📖 [Web fundamentals - Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)  
 > 📖 [Varvy.com - Leverage browser caching](https://varvy.com/pagespeed/leverage-browser-caching.html)  
@@ -410,7 +410,7 @@ disallow: /downloads/
 > #### ☑️ One H1 per page
 > H1 should only be used as your main title. Headings help Google understand your text and the context of the page.
 >
-> 📖 [Medium - 10 Best Practices for HTML](https://medium.com/swlh/10-best-practices-for-html-542fb923b93)  
+> 📖 [Webtips.dev - 10 Best Practices for HTML](https://www.webtips.dev/10-best-practices-for-html)  
 > 📖 [Yoast - More than one H1](https://yoast.com/academy/seo-copywriting-training/single-h1/)
 ----------
 
