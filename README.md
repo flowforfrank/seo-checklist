@@ -37,7 +37,11 @@
    
     2.9. [Has valid robot.txt](#%EF%B8%8F-has-valid-robottxt)  
     2.10. [Has valid sitemap.xml](#%EF%B8%8F-has-valid-sitemapxml)  
-    2.11. [Structured Data](#%EF%B8%8F-structured-data)
+    2.11. [Structured Data](#%EF%B8%8F-structured-data)  
+    2.12. [Core web vitals](#%EF%B8%8F-core-web-vitals)
+    - 2.12.1. [Largest Contentful Paint](#%EF%B8%8F-largest-contentful-paint)
+    - 2.12.2. [First Input Delay](#%EF%B8%8F-first-input-delay)
+    - 2.12.3. [Cumulative Layout Shift](#%EF%B8%8F-cumulative-layout-shift)
 3. **📜 [On-Site SEO](#-on-site-seo)**  
     3.1. [Meta information](#meta-information)
     - 3.1.1. [Has meta description](#%EF%B8%8F-has-meta-description)
@@ -284,6 +288,24 @@ disallow: /downloads/
 >
 > 📖 [Web.dev - Structured data is valid](https://web.dev/structured-data/?utm_source=lighthouse&utm_medium=devtools)  
 > 📖 [Learn more - Schema.org](http://schema.org/)
+----------
+
+> #### ☑️ Core web vitals
+> The core web vitals are three core metrics that focuses on three aspects of the user experience; loading, interactivity, and visual stability. These are measured by the following metrics:
+>
+> - ##### ✔️ Largest Contentful Paint
+>   **LCP** for short, measures the time it takes for the browser to fully render the main content of your page. LCP is considered good when it happens [within 2.5 seconds](https://web.dev/lcp/#what-is-a-good-lcp-score).
+>
+> - ##### ✔️ First Input Delay
+>   **FID** for short, measures the time it takes for the first user input to be processed. Anything [below 100ms](https://web.dev/fid/#what-is-a-good-fid-score) is considered good.
+>
+> - ##### ✔️ Cumulative Layout Shift
+>   **CLS** for short, measures the amount of layout shifts on your page that causes elements to change position unexpectedly. A good CLS score is [less than 0.1](https://web.dev/cls/#what-is-a-good-cls-score).
+>  
+> 📖 [Webtips.dev - Core Web Vitals](https://www.webtips.dev/core-web-vitals)  
+> 📖 [Web.dev - Largest Contentful Paint (LCP)](https://web.dev/lcp/)  
+> 📖 [Web.dev - First Input Delay (FID)](https://web.dev/fid/)  
+> 📖 [Web.dev - Cumulative Layout Shift (CLS)](https://web.dev/cls/)
 
 ## 📜 On-Site SEO
 ℹ️ *On-Site SEO is about the structure and content of your page. It's goal is to guide you how to create SEO friendly content that is easily understandable by search engines.*
