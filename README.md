@@ -9,7 +9,7 @@
     <a href="https://twitter.com/flowforfrank"><img src="https://img.shields.io/badge/Twitter-15202B.svg?logo=Twitter" alt="Follow on Twitter"/></a>
     <a href="https://medium.com/@ferencalmasi"><img src="https://img.shields.io/badge/Medium-000.svg?logo=medium" alt="Follow on Medium"/></a>
     <br />
-    <a href="https://www.buymeacoffee.com/flowforfrank" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Support on Buy Me A Coffee" width="150px"></a>
+    <a href="https://www.buymeacoffee.com/webtips" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Support on Buy Me A Coffee" width="150px"></a>
     <br />• • •<br />
     <a href="https://github.com/flowforfrank/performance-checklist" alt="Check out the Performance checklist">📈 Performance Checklist</a>
 </p>
