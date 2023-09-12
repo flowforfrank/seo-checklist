@@ -96,6 +96,7 @@
     - 📈 [LSIGraph](https://lsigraph.com/) - *Generate latent semantic indexing terms for your keywords*
     - 📈 [WordPress - Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - *WordPress plugin for on-page content analysis*
     - 📈 [WordPress - RankMath](https://wordpress.org/plugins/seo-by-rank-math/) - *WordPress plugin for seo analysis*
+    - 📈 [Keyword.com](https://keyword.com/) - *Accurate keyword rank tracking software with daily updates*
 - #### SEO Checkers
   *Online tools that helps you locating and addressing issues that can hurt your ranking*
     - ✔️ [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - *Addressing technical and on-site seo issues*
@@ -120,6 +121,7 @@
     - ✔️ [Sitechecker Pro](https://sitechecker.pro/)
     - ✔️ [Seobility](https://www.seobility.net/en/seocheck/) - *Factors includes **meta information, page quality and structure, links and server configuration***
     - ✔️ [SEO Site Checkup](https://seositecheckup.com/) - *Apart from general SEO, also checks for: **speed, server & security and mobile usability***
+    - ✔️ [Web Check](https://web-check.xyz/) - *A powerful all-in-one tool for discovering information about a website/host.*
 - #### Chrome Extensions
     - 💻 [Serpstat Website SEO Checker](https://chrome.google.com/webstore/detail/serpstat-website-seo-chec/fcgbopaomlpldhbinhgebmkcnkfconmn)
     - 💻 [SEO Checker Tool](https://chrome.google.com/webstore/detail/seo-checker-tool-get-free/ljkhgacfcnhpfafpcdpaadgklajibdak)
@@ -254,6 +256,7 @@ X-Robots-Tag: noindex
 > 📖 [Webtips.dev - How to Improve Page Speed by Optimizing Content](https://www.webtips.dev/how-to-improve-page-speed-by-optimizing-content)  
 > 📖 [Web fundamentals - Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)  
 > 📖 [Web fundamentals - Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)  
+> 📖 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)  
 > 📖 [Varvy.com - Leverage browser caching](https://varvy.com/pagespeed/leverage-browser-caching.html)  
 > 📖 [Varvy.com - Enable gzip compression](https://varvy.com/pagespeed/enable-compression.html)
 ----------
