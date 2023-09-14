@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://webtips.dev"><img src="https://img.shields.io/badge/webtips.dev-FCC700.svg?labelColor=221F22&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAWCAYAAABtwKSvAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAN4SURBVHgBzVdLUhRBEH3VPaMS4QJPIDdAlmgQwgnQE6An8AiGJ1BvACdwOAFtGILhQuEENDdgYcinP2VW9TSTmZUFLsnNTGdnvcrPy6xq1x3h1AMrYNL3WHvwAse4p9IcYdMBB1znPI4L70ynn+Eei+tl8oP0wFnhe5wlxkiN75N4yz+qzIQcr+jvO64vCjy1QKzylo/wxK3h3LJvf+ALbfJqfKa1u+U63lq2F0dYmQKnwr8WW9ON6J8QV2I1RCSkR1U0Fs18hmY9NrWq+btw9i57onTWdmpg+9L2w6LZ5DH1zNI6anJeZNYXNs1cgZdaVxq6IKGKVIpl6R2Wr79nElViW6sKl+oijEsw6sCOYlilSmls6g+iY5sGsJ1tI9NRXEZv2ZPT/rdMSEyS9sHjJPzGYGgUf0UqIpjuYcYJCrz5lr5zmYpZ2TarOMdu/6ikGi3gh74fgnFG3zhdykzJo5SyOqGZgUzwpNfZ5kPiLmxKxqo2cd3gfwxmcpkGQy9EZh1zjsb5yW22uplpbc2f9dDQ1QoH4C3vksqME2+ozBbOOUB0mPH1+if9Z7OdKPSJOxhtf7FxLilWU/AfODYfGgk2+dEBezfY9G7EDn1rNH+12HYudIImfXPD11ZmuiGA3mNf6C7xGgsP+NlSldeYcVsxNBR28KNz0n7Ebh8Z/eIXLCn4ponhfM7zUofMxXGuNhxtdDPTZvuh8uD4bGgkA6HDLOBbVLOaP9gnwZRXxklLfaKbeaTAdJ3s5fkUG5vW7HCMcmnA1ZUMjW0Minrkf++EfcS2JmE4LJNgkuxhGK/JyewXNkQJSbULvHHSuWq86kyvsKuwd4xBUfG1Gtu4mVT8KlVIP1XfEB1oh49MU/NPAxrfu9ycwN6rS+BNI1tUU9iRkuN/XfmArc8iXW0RDIy+4QC6r+JI51RTmzXKPkkWt3c4nzxXg4IlI3OoVvxRBGP0gZC+ZeCYZ9tlP+KqOCiYtJCVFFheBjIoDd1Cav0BqSsjs6EWW9dxahzTPml4knlwlWXvDfuk8kys6VsYVrP/XRwkniHGhl0GxxvnmUWxqKbK6yEzimZJkCSYXDasxeOGya3boNgoFtVMio3vnEFNCt5iyQSGc80h9ijKbb54smFXJghR5HPBbtm3UDVSjb5AZ/yOlUtUkNDH3SElmA0AuuWb1foHkNJ6z8TJflAAAAAASUVORK5CYII=" alt="Learn more about JavaScript and web development" /></a>
-    <a href="https://twitter.com/flowforfrank"><img src="https://img.shields.io/badge/Twitter-15202B.svg?logo=Twitter" alt="Follow on Twitter"/></a>
+    <a href="https://twitter.com/WebtipsHQ"><img src="https://img.shields.io/badge/Twitter-15202B.svg?logo=Twitter" alt="Follow on Twitter"/></a>
     <a href="https://medium.com/@ferencalmasi"><img src="https://img.shields.io/badge/Medium-000.svg?logo=medium" alt="Follow on Medium"/></a>
     <br />
     <a href="https://www.buymeacoffee.com/webtips" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Support on Buy Me A Coffee" width="150px"></a>
@@ -56,7 +56,7 @@
 
     3.3. [Document structure](#document-structure)
     - 3.3.1. [SEO friendly URLs](#%EF%B8%8F-seo-friendly-urls)
-    - 3.3.2. [One H1 per page](#%EF%B8%8F-one-h1-per-page)
+    - 3.3.2. [Headings in order](#%EF%B8%8F-heading-in-order)
     - 3.3.3. [Image elements have [alt] attributes](#%EF%B8%8F-image-elements-have-alt-attributes)
     - 3.3.4. [Document uses legible font sizes](#%EF%B8%8F-document-uses-legible-font-sizes)
     - 3.3.5. [Tap targets are sized appropriately](#%EF%B8%8F-tap-targets-are-sized-appropriately)
@@ -127,6 +127,7 @@
     - 💻 [SEO Checker Tool](https://chrome.google.com/webstore/detail/seo-checker-tool-get-free/ljkhgacfcnhpfafpcdpaadgklajibdak)
     - 💻 [Website SEO Checker: Free Audit & Analysis](https://chrome.google.com/webstore/detail/website-seo-checker-free/nljcdkjpjnhlilgepggmmagnmebhadnk)
     - 💻 [Keywords Everywhere - Chrome & Firefox](https://keywordseverywhere.com/)
+    - 💻 [Detailed - Chrome & Firefox](https://detailed.com/extension/)
 - #### Other Tools
     - 🛠️ [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - *Validate open graph tags*
     - 🛠️ [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/)
@@ -252,11 +253,11 @@ X-Robots-Tag: noindex
 >    - Use `rel="preload"` to treat resource with high priorty
 >    - Cache & compress
 >  
-> 📖 [Webtips.dev - 10 Critical Performance Optimization Steps You Should Take](https://www.webtips.dev/10-critical-performance-optimization-steps-you-should-take)  
-> 📖 [Webtips.dev - How to Improve Page Speed by Optimizing Content](https://www.webtips.dev/how-to-improve-page-speed-by-optimizing-content)  
+> 📖 [Webtips.dev - 10 Critical Performance Optimization Steps You Should Take](https://webtips.dev/10-critical-performance-optimization-steps-you-should-take)  
+> 📖 [Webtips.dev - How to Improve Page Speed by Optimizing Content](https://webtips.dev/how-to-improve-page-speed-by-optimizing-content)  
+> 📖 [Webtips.dev - 3 Ways to Benchmark Your JavaScript](https://webtips.dev/webtips/javascript/benchmark-javascript)  
 > 📖 [Web fundamentals - Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)  
-> 📖 [Web fundamentals - Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)  
-> 📖 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)  
+> 📖 [Web fundamentals - Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)   
 > 📖 [Varvy.com - Leverage browser caching](https://varvy.com/pagespeed/leverage-browser-caching.html)  
 > 📖 [Varvy.com - Enable gzip compression](https://varvy.com/pagespeed/enable-compression.html)
 ----------
@@ -289,6 +290,7 @@ disallow: /downloads/
 > Site has a valid structured data. Run the [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/) and the [Structured Data Linter](http://linter.structured-data.org/) to validate.
 > Marking up your content with structured data makes it more likely that it will be included in rich search results.
 >
+> 📖 [Webtips.dev - How to Use Schema Markup in HTML](https://webtips.dev/lessons/schema-markup-in-html)  
 > 📖 [Web.dev - Structured data is valid](https://web.dev/structured-data/?utm_source=lighthouse&utm_medium=devtools)  
 > 📖 [Learn more - Schema.org](http://schema.org/)
 ----------
@@ -305,7 +307,7 @@ disallow: /downloads/
 > - ##### ✔️ Cumulative Layout Shift
 >   **CLS** for short, measures the amount of layout shifts on your page that causes elements to change position unexpectedly. A good CLS score is [less than 0.1](https://web.dev/cls/#what-is-a-good-cls-score).
 >  
-> 📖 [Webtips.dev - Core Web Vitals](https://www.webtips.dev/core-web-vitals)  
+> 📖 [Webtips.dev - Core Web Vitals](https://webtips.dev/core-web-vitals)  
 > 📖 [Web.dev - Largest Contentful Paint (LCP)](https://web.dev/lcp/)  
 > 📖 [Web.dev - First Input Delay (FID)](https://web.dev/fid/)  
 > 📖 [Web.dev - Cumulative Layout Shift (CLS)](https://web.dev/cls/)
@@ -434,15 +436,30 @@ disallow: /downloads/
 ```
 ----------
 
-> #### ☑️ One H1 per page
-> H1 should only be used as your main title. Headings help Google understand your text and the context of the page.
+> #### ☑️ Heading in order
+> Headings help Google understand your text and the context of the page. Headings should be created in hierarchical order. This means an `h1` should be followed by an `h2`, and not an `h3`.
 >
-> 📖 [Webtips.dev - 10 Best Practices for HTML](https://www.webtips.dev/10-best-practices-for-html)  
+> 📖 [Webtips.dev - 10 Best Practices for HTML](https://webtips.dev/10-best-practices-for-html)  
 > 📖 [Yoast - More than one H1](https://yoast.com/academy/seo-copywriting-training/single-h1/)
+
+```html
+<!-- ❌ Don't -->
+<h1>Title of your page</h1>
+<h3>Heading</h3>
+
+<!-- ❌ Don't -->
+<h3>Title of your page</h3>
+<h1>Heading</h1>
+
+<!-- ✔️ Do -->
+<h1>Title of your page</h1>
+<h2>Heading</h2>
+<h3>Sub-heading</h3>
+```
 ----------
 
 > #### ☑️ Image elements have [alt] attributes
-> Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute.
+> Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. For images, provide `width` and `height` attributes to avoid layout shifts. Always lazy load off-screen images by setting the `loading` attribute to `lazy`.
 >
 > 📖 [Web.dev - Image elements have [alt] attributes](https://web.dev/image-alt/?utm_source=lighthouse&utm_medium=devtools)
 
@@ -452,6 +469,11 @@ disallow: /downloads/
 
 <!-- If the image doesn't provide any value, still give it an empty alt tag -->
 <img src="..." alt="" />
+
+<!-- Use `width` and `height` attributes to avoid layout shifts -->
+<!-- Lazy load off-screen images -->
+<!-- ⚠️ Never lazy load ATF (above-the-fold) images -->
+<img src="..." alt="" width="100" height="100" loading="lazy" />
 ```
 ----------
 
@@ -636,6 +658,7 @@ disallow: /downloads/
 - 📖 [Moz - The Beginners Guide to SEO](http://d2eeipcrcdle6.cloudfront.net/guides/Moz-The-Beginners-Guide-To-SEO.pdf)
 - 📖 [TutorialsPoint - SEO Tutorials](http://www.tutorialspoint.com/seo/index.htm)
 - 📖 [Ahrefs - The Noob Friendly Guide To Link Building](https://ahrefs.com/blog/link-building/)
+- 📖 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)
 - 📺 [Ahrefs - SEO For Beginners](https://www.youtube.com/watch?v=DvwS7cV9GmQ)
 - 📺 [Ahrefs - SEO Checklist 2019](https://www.youtube.com/watch?v=taU9P98zfjk)
 - 📺 [Backlinko - SEO Checklist 2020](https://www.youtube.com/watch?v=SEQBi9LtZjQ)
