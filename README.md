@@ -232,7 +232,7 @@ X-Robots-Tag: noindex
 >   gzip or brotli compression is enabled on the server side. This further reduces the network request size which will result in a faster page load and less bandwidth used.
 >
 > - ##### ✔️ Resources minified
->   All resources (HTML, CSS, JavaScript) should be minified to reduce their size
+>   All resources ([HTML](https://www.scaler.com/topics/html/), CSS, JavaScript) should be minified to reduce their size
 >
 > - ##### ✔️ Images and fonts are optimized
 >   Compressing images and fonts can result in most saved bytes of data.  
